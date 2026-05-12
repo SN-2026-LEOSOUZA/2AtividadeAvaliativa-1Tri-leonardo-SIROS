@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-12T14:39:26.063283+00:00",
+  "updated_at": "2026-05-12T17:19:03.509987+00:00",
   "data_referencia": "2026-05-12",
   "airport_icao": "SBCG",
   "airport_name": "Campo Grande",
   "airport_info": {
-    "sg_aerodromo_icao": "SBKP",
-    "sg_aerodromo_iata": "VCP",
-    "descricao": "VIRACOPOS - CAMPINAS - SP - BRASIL"
+    "sg_aerodromo_icao": "SBCG",
+    "sg_aerodromo_iata": "CGR",
+    "descricao": "CAMPO GRANDE - CAMPO GRANDE - MS - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
