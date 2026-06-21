@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-21T11:48:58.761782+00:00",
+  "updated_at": "2026-06-21T14:24:39.721569+00:00",
   "data_referencia": "2026-06-21",
   "airport_icao": "SBJP",
   "airport_name": "Joao Pessoa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCF",
-    "sg_aerodromo_iata": "CNF",
-    "descricao": "TANCREDO NEVES - CONFINS - MG - BRASIL"
+    "sg_aerodromo_icao": "SBJP",
+    "sg_aerodromo_iata": "JPA",
+    "descricao": "PRESIDENTE CASTRO PINTO - JOÃO PESSOA - PB - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
