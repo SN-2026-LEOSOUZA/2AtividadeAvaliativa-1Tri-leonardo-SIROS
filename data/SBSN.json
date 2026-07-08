@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-08T14:29:26.450237+00:00",
+  "updated_at": "2026-07-08T16:44:10.041144+00:00",
   "data_referencia": "2026-07-08",
   "airport_icao": "SBSN",
   "airport_name": "Santarem",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSN",
-    "sg_aerodromo_iata": "STM",
-    "descricao": "MAESTRO WILSON FONSECA - SANTARÉM - PA - BRASIL"
+    "sg_aerodromo_icao": "SBVT",
+    "sg_aerodromo_iata": "VIX",
+    "descricao": "EURICO DE AGUIAR SALLES - VITÓRIA - ES - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
