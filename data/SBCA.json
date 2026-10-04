@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-10-04T14:43:33.467810+00:00",
+  "updated_at": "2026-10-04T18:35:18.020475+00:00",
   "data_referencia": "2026-10-04",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBCA",
-    "sg_aerodromo_iata": "CAC",
-    "descricao": "CORONEL ADALBERTO MENDES DA SILVA - CASCAVEL - PR - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
